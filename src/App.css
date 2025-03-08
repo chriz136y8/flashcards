@@ -41,4 +41,12 @@
   color: #888;
 }
 
+.card{
+  background-color: rgb(57, 57, 185);
   
+}
+
+.title{
+  color: yellow;
+  text-shadow: 0 0 7px white;
+}
